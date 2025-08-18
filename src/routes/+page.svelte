@@ -1,10 +1,8 @@
 <script lang="ts">
 	import portrait from "$lib/assets/portrait.jpg"
-	import Header from "$lib/components/Header.svelte";
 </script>
 
-<div>
-	<Header/>
+<main>
 	<h1 class="title">Nathan George</h1>
 	<div class="about">
 		<div class="portrait">
@@ -14,19 +12,23 @@
 			I am a third year computer science student at the Colorado School of Mines, helping TA CSCI400 (Programming Languages) and CSCI406 (Algorithms). After graduating, I am planning on getting a masters in teaching to eventually teach at the high school level. I am planning on using this website to host blog posts, post computer science and math puzzles, and share material students and educators can use for teaching computer science. We'll see how far we get along that plan.
 		</p>
 	</div>
-</div>
+</main>
 
 <style>
+	main {
+		container: main / inline-size;
+	}
+
 	.title {
-		margin: 10rem;
-		font-size: 18rem;
+		margin: 5vw auto;
+		font-size: calc(13vw);
 		font-style: oblique;
 		font-weight: lighter;
 		text-align: center;
 	}
 
 	.about {
-		margin: 10rem auto;
+		margin: 0 auto;
 		width: 80%;
 		display: flex;
 		justify-content: space-around;
@@ -40,13 +42,33 @@
 	}
 
 	.portrait {
-		width:256px;
-		height:256px;
+		object-fit: cover;
+		width: 256px;
+		min-width: 256px;
+		height: 256px;
+		min-height: 256px;
 		border-radius: 50%;
 		overflow: hidden;
 	}
 
 	.portrait > img {
-		width: 400px; height: 400px; position: relative; top: -20px; left: -60px;
+		object-fit: cover;
+		width: 400px; 
+		height: 400px; 
+		position: relative; 
+		top: -20px; 
+		left: -60px;
+	}
+
+	@container main (width < 1000px) {
+		.about {
+			width: 100%;
+			flex-direction: column;
+		}
+
+		.about > p {
+			margin-top: 40px;
+			width: 95%;
+		}
 	}
 </style>
