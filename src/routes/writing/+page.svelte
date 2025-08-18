@@ -1,7 +1,7 @@
 <main>
-	<h1 class="title">Writting</h1>
+	<h1 class="title">Writing</h1>
 	<div class="posts">
-		<a class="post" href="/writting/if-nix-then-nix">
+		<a class="post" href="/writing/if-nix-then-nix">
 			<div>
 				<h2>If Nix Then Nix</h2>
 				<p>
