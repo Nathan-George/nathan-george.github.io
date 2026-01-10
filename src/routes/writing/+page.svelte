@@ -9,6 +9,14 @@
 				</p>
 			</div>
 		</a>
+		<a class="post" href="/writing/computer-science-lectures-are-failing">
+			<div>
+				<h2>Computer Scinece Lectures are Failing</h2>
+				<p>
+					My thoughts on the present state of computer science lectures in 2026.
+				</p>
+			</div>
+		</a>
 	</div>
 </main>
 
@@ -33,6 +41,7 @@
 	}
 
 	.post > div {
+		margin: 0 0 5rem;
 		height: 7rem;
 		padding: 1rem;
 		border-radius: 1rem;
