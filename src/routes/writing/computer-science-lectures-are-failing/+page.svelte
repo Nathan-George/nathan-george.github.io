@@ -9,7 +9,7 @@
 
 		<h2>Introduction</h2>
 		<p>
-After two and a half years of undergraduate computer science courses, my expectation of a lecture has 80% of students on their laptops with some portion playing games, another portion doing programming work for the class, and the last portion taking notes on the class. These students face off against the instructors who plead with students to ask questions and respond to the lecture, so they can gage some sense as to were the class is in following them. Often, a lecturer's questions are followed by a period of awkward silence or are quickly answered by one of the 3 students who are certain of the answer.Some professors have adopted a flipped classroom, but are met with few questions during class time, often filling time with a review of the content in the recordings students reviewed before class.
+After two and a half years of undergraduate computer science courses, my expectation of a lecture has 80% of students on their laptops with some portion playing games, another portion doing programming work for the class, and the last portion taking notes on the class. These students face off against the instructors who plead with students to ask questions and respond to the lecture, so they can gage some sense as to were the class is in following them. Often, a lecturer's questions are followed by a period of awkward silence or are quickly answered by one of the 3 students who are certain of the answer. Some professors have adopted a flipped classroom, but are met with few questions during class time, often filling time with a review of the content in the recordings students reviewed before class.
 		</p>
 		<p>
 I have a lurking suspicion that professors are loosing ground on students' attentions as I witness them try to engage with students in class. My undergraduate classes are getting worse at teaching students, but why?
@@ -17,7 +17,7 @@ I have a lurking suspicion that professors are loosing ground on students' atten
 
 		<h2>Taking Notes</h2>
 		<p>
-Originally, I had the title of this blog post _You Should Try Not Taking Notes_. Given how much mindless copying I see in digital note taking, I suspected we as students have found a way to trick ourselves into thinking we are learning in lecture by showing ourselves that we managed to precisely recreate what was said in class. However, after reviewing several studies on note taking in the undergraduate classroom, this stance lacks nuance. There are studies demonstrating the effectiveness of note taking in recalling information (Austin Lee Carr 2004) and improving performance on tests.
+Originally, I had the title of this blog post <i>You Should Try Not Taking Notes</i>. Given how much mindless copying I see in digital note taking, I suspected we as students have found a way to trick ourselves into thinking we are learning in lecture by showing ourselves that we managed to precisely recreate what was said in class. However, after reviewing several studies on note taking in the undergraduate classroom, this stance lacks nuance. There are studies demonstrating the effectiveness of note taking in recalling information (Austin Lee Carr 2004) and improving performance on tests.
 		</p>
 		<p>
 Researchers have posited several theories as to why note taking improves recall of lecture material. Throughout my research of these studies, the role critical thinking to filter, condense, and prioritize information in one's notes play's a central role. One theory posits note taking as a two part process of encoding, wherein a student translates invisible ideas into tangible diagrams, and external storage, in which a student can search and review once the original lecture is inaccessible (Kiewra 1985). During a lecture a student must use critical thinking to encode and instructor's slides or oral presentation for better recall to take place. As note taking techniques have improved through the broader use of technologies such as digital stylus note taking and LaTeX, students have been able to get faster at exactly copying slides eliminating the need to translate or prioritize information. In essence, we have gotten so good at taking notes we don't even need to think about them. This change has largely unaffected the role of notes as external storage, but now that is the least important role of notes as all lecture material is available in abundance online. Additionally, without thinking, we have crippled the role of notes as encoding which they do better than ever by ironically not doing at all.
@@ -50,7 +50,7 @@ Code written during a lecture should be provided beforehand to free up students 
 
 		<h2>AI</h2>
 		<p>
-Maybe I will write about how AI is destroying the CS undergraduate experience, but That will be for another time as it dramatically reshapes my degree. I will leave a few points for how AI has made computer science lectures ineffective.
+Maybe I will write about how AI is destroying the CS undergraduate experience, but that will be for another time as it dramatically reshapes my degree. I will leave a few points for how AI has made computer science lectures ineffective.
 		</p>
 
 		<ul>
