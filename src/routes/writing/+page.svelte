@@ -5,13 +5,13 @@
 			<div>
 				<h2>If Nix Then Nix</h2>
 				<p>
-					Nixos seems to invade evrything from my github projects to my editor's configuration in the name of reproducibility, but at what cost? My thoughts on Nixos after about a year of using it.
+					Nixos seems to invade everything from my github projects to my editor's configuration in the name of reproducibility, but at what cost? My thoughts on Nixos after about a year of using it.
 				</p>
 			</div>
 		</a>
 		<a class="post" href="/writing/computer-science-lectures-are-failing">
 			<div>
-				<h2>Computer Scinece Lectures are Failing</h2>
+				<h2>Computer Science Lectures are Failing</h2>
 				<p>
 					My thoughts on the present state of computer science lectures in 2026.
 				</p>
